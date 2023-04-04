@@ -1,76 +1,4 @@
 {
-    "win-phrases": [
-        {
-            "id": 1,
-            "description": "Good job Lily, you're amazing! 💜"
-        },
-        {
-            "id": 2,
-            "description": "Wow Lily, you're a mathemagician 🪄"
-        },
-        {
-            "id": 3,
-            "description": "Great job babe, you're doing so well! ❣️"
-        },
-        {
-            "id": 4,
-            "description": "Sagittarius and good at math, sexy 😉"
-        },
-        {
-            "id": 5,
-            "description": "Lily + Warren = 😘 #simplemath"
-        },
-        {
-            "id": 6,
-            "description": "Practise makes purrfect 😽"
-        },
-        {
-            "id": 7,
-            "description": "Awww yass boss bitch energy 💃"
-        },
-        {
-            "id": 8,
-            "description": "Noice you sexy muthafucka! 😉"
-        },
-        {
-            "id": 9,
-            "description": "Quick mafs, you dun know 🧠"
-        },
-        {
-            "id": 10,
-            "description": "Look at you go! 🔥"
-        },
-        {
-            "id": 11,
-            "description": "Big brain energy 🧠"
-        },
-        {
-            "id": 12,
-            "description": "34 + 35, easy 😉"
-        },
-        {
-            "id": 13,
-            "description": "Lily is on fiiiiiiiire 🔥"
-        },
-        {
-            "id": 14,
-            "description": "I'm proud of you babe 💖"
-        },
-        {
-            "id": 15,
-            "description": "Look at you go babe, you're doing the thing! 💜"
-        }
-    ],
-    "win-pictures": [
-        {
-            "id": 1,
-            "url": ""
-        },
-        {
-            "id": 2,
-            "url": ""
-        }
-    ],
     "30-seconds-list": [
         {
             "item-id": 1,
@@ -310,7 +238,7 @@
         },
         {
             "item-id": 60,
-            "content": "Penang Island"
+            "content": "Penang Island, Malaysia"
         },
         {
             "item-id": 61,
@@ -471,106 +399,6 @@
         {
             "item-id": 100,
             "content": "Chengdu East Railway Station"
-        },
-        {
-            "item-id": 101,
-            "content": "KLCC"
-        },
-        {
-            "item-id": 102,
-            "content": "Vitamin D Supplement"
-        },
-        {
-            "item-id": 103,
-            "content": "Vitamin B12 Supplement"
-        },
-        {
-            "item-id": 104,
-            "content": "Vocal Lessons"
-        },
-        {
-            "item-id": 105,
-            "content": "COVID During Christmas"
-        },
-        {
-            "item-id": 106,
-            "content": "Adam Driver"
-        },
-        {
-            "item-id": 107,
-            "content": "Vibrating Butt Plug"
-        },
-        {
-            "item-id": 108,
-            "content": "Friends - The Reunion"
-        },
-        {
-            "item-id": 109,
-            "content": "Doggie Style"
-        },
-        {
-            "item-id": 110,
-            "content": "Cat Beach"
-        },
-        {
-            "item-id": 111,
-            "content": "Tag Neuter Release"
-        },
-        {
-            "item-id": 112,
-            "content": "Reebok"
-        },
-        {
-            "item-id": 113,
-            "content": "Nina's JBay"
-        },
-        {
-            "item-id": 114,
-            "content": "Li-o-La Sedgefield"
-        },
-        {
-            "item-id": 115,
-            "content": "Vipassana Silent Retreat"
-        },
-        {
-            "item-id": 116,
-            "content": "Goenka Chanting"
-        },
-        {
-            "item-id": 117,
-            "content": "Sardinia Bay Sunet"
-        },
-        {
-            "item-id": 118,
-            "content": "Wildside Burger"
-        },
-        {
-            "item-id": 119,
-            "content": "Chickpea Mushroom Crêpe"
-        },
-        {
-            "item-id": 120,
-            "content": "Kariega Game Reserve"
-        },
-        {
-            "item-id": 121,
-            "content": "Sunrise Game Drive"
-        },
-        {
-            "item-id": 122,
-            "content": "Greyton Farm Animal Sanctuary"
-        },
-        {
-            "item-id": 123,
-            "content": "Beyond Burger Patties"
-        },
-        {
-            "item-id": 124,
-            "content": "Bottle of Prosecco"
-        },
-        {
-            "item-id": 125,
-            "content": "Suprise Birthday Party"
         }
     ]
 }
